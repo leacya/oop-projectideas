@@ -42,7 +42,7 @@ public class App
         System.out.println("What is the day of the month : " + today.getDayOfMonth());
         System.out.println("What is the Month name : " + today.getMonth());
 
-//            newDay = newDay.   //look at methods
+//            newDay = newDay.  //look at methods
 
         if (newDay.isBefore(today))
         {
